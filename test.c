@@ -8,12 +8,12 @@
 */
 int main(int argc, char *argv[], char **env)
 {
-(void) argc;
-(void) argv;
 int exitno;
 size_t nline;
 size_t sizes;
 char *cmder;
+(void)argc;
+(void)argv;
 
 cmder = NULL;
 exitno = 0;
