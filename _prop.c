@@ -1,6 +1,6 @@
 #include "shell.h"
 /**
-* prop - commandline prompt
+* _prop - commandline prompt
 *
 */
 void _prop(void)

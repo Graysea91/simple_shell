@@ -6,5 +6,5 @@
 */
 int _prits(const char *strings)
 {
-        return (write(STDOUT_FILENO, strings, strlen(strings)));
+	return (write(STDOUT_FILENO, strings, strlen(strings)));
 }

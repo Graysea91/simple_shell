@@ -7,5 +7,5 @@
 */
 int _put(char characts)
 {
-        return (write(STDOUT_FILENO, &characts, 1));
+	return (write(STDOUT_FILENO, &characts, 1));
 }
